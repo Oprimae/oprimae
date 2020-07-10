@@ -11,5 +11,5 @@
 
 ## My Skills
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/skills.png" />
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/offshorp/blob/master/img/skills.png" />
 </p>
