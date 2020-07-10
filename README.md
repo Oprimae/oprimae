@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Welcome to my GitHub Profile</h1>
 
-<!--
-**Offshorp/Offshorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://offshorp.amazonia-studio.com/">Website</a> •
+  <a href="https://twitter.com/Offshorp">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
+* 📌 Based in __France__
+* 💼 CEO of [Amazonia Studio](https://amazonia-studio.com/)
+* 💻 Game Developer of [Amazonia Community](https://amazonia-community.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/skills.png" />
+</p>
