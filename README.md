@@ -7,7 +7,7 @@
 
 * 📌 Based in __France__
 * 💼 CEO of [Amazonia Studio](https://amazonia-studio.com/)
-* 💻 Game Developer of [Amazonia Community](https://amazonia-community.fr)
+* 💻 Game Developer of [Amazonia Community](https://amazonia-studio.fr)
 
 ## My Skills
 <p align="center">
