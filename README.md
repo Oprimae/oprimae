@@ -14,5 +14,5 @@
   <img align="center" alt="Skills" src="https://github.com/Offshorp/Offshorp/blob/master/img/skills.png" />
   
   <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=compact" />
-  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=compact" />
+  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=default" />
 </p>
