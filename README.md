@@ -13,6 +13,5 @@
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/Offshorp/Offshorp/blob/master/img/skills.png" />
   <br/><br/>
-  <img align="left" alt="Repo's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=compact" />
-  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=offshorp&show_icons=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=offshorp&show_icons=true" />
 </p>
