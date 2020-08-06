@@ -12,5 +12,6 @@
 ## My Skills
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/Offshorp/Offshorp/blob/master/img/skills.png" />
+  
+  <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=compact" />
 </p>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
