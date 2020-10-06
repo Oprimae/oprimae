@@ -7,11 +7,9 @@
 
 * 📌 Based in __France__
 * 💼 CEO of [Amazonia Studio](https://amazonia-studio.com/)
-* 💻 Game Developer of [Amazonia Community](https://amazonia-studio.fr)
 
-## My Skills
+## My Stats
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/Offshorp/Offshorp/blob/master/img/skills.png" />
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Offshorp&show_icons=true" />
   <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offshorp" />
 </p>
