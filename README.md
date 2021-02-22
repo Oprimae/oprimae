@@ -1,12 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
-<p align="center">
-  <a href="https://offshorp.amazonia-studio.com/">Website</a> •
-  <a href="https://twitter.com/Offshorp">Twitter</a>
-</p>
-
 * 📌 Based in __France__
-* 💼 CEO of [Amazonia Studio](https://amazonia-studio.com/)
 
 ## My Stats
 <p align="center">
