@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
-<div align="center"><a href="http://amazonia-studio.com/">Amazonia Studio</a></div>
 
-* 📌 Based in __France__
+* 📌 Lives in __Bordeaux, France__
 
 ## My Stats
 <p align="center">
