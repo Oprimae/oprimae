@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
-* 📌 Lives in __Bordeaux, France__
+* 📌 Based in France
+* 📦 Main Project: Create a Game Development Studio
+* 📋 Current project: Minecraft MMO Server
 
 ## My Stats
 <p align="center">
