@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
-<img alt="Profil" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offshorp&layout=compact" />
-
 * 📌 Based in France
 * 📦 Main Project: Create a Game Development Studio
 * 📋 Current project: Minecraft MMO Server
