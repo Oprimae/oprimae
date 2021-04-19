@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 * 📌 Based in France
-* 📦 Main Project: <a href="https://github.com/RedWolvesStudio">@RedWolvesStudio</a>
+* 📦 Main Project: <a href="https://github.com/RedWolvesStudio">RedWolves Studio</a>
 * 📋 Current project: Minecraft MMO Server
 
 ## My Stats
