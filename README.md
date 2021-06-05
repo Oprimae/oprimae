@@ -6,6 +6,6 @@
 
 ## My Stats
 <p align="center">
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Offshorp&show_icons=true" />
-  <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offshorp" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yumless&show_icons=true" />
+  <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumless" />
 </p>
