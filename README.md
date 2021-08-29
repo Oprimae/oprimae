@@ -4,7 +4,7 @@
 * 📦 Main Project: <a href="https://github.com/RedWolvesStudio">RedWolves Studio</a>
 * 📋 Current projects: 
     - MMORPG Minecraft Server > <a href="https://github.com/OlympyCraft">OlympyCraft</a>
-    - Mini-Games Minecraft Server > <a href="https://github.com/">${server_name}</a>
+    - Mini-Games Minecraft Server > <a href="https://github.com/ServerNameMC">${server_name}</a>
     - FiveM RP Server > <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
     - Habbo Retro Server > <a href="https://github.com/HabboClub">HabboClub</a>
 
