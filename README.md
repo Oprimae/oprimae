@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
-* 📌 Based in France
-* 📦 Main Project: <a href="https://github.com/RedWolvesStudio">RedWolves Studio</a>
-* 📋 Current projects: 
-*      - MMORPG Minecraft Server
-*      - Mini-Games Minecraft Server
-*      - FiveM RP Server > <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
-*      - Habbo Retro Server > <a href="https://github.com/HabboClub">HabboClub</a>
+📌 Based in France
+📦 Main Project: <a href="https://github.com/RedWolvesStudio">RedWolves Studio</a>
+📋 Current projects: 
+  - MMORPG Minecraft Server
+  - Mini-Games Minecraft Server
+  - FiveM RP Server > <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
+  - Habbo Retro Server > <a href="https://github.com/HabboClub">HabboClub</a>
 
 ## My Stats
 <p align="center">
