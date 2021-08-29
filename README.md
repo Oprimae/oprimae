@@ -2,7 +2,11 @@
 
 * 📌 Based in France
 * 📦 Main Project: <a href="https://github.com/RedWolvesStudio">RedWolves Studio</a>
-* 📋 Current project: Minecraft MMO Server
+* 📋 Current projects: 
+      - MMORPG Minecraft Server
+      - Mini-Games Minecraft Server
+      - FiveM RP Server > <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
+      - Habbo Retro Server > <a href="https://github.com/HabboClub">HabboClub</a>
 
 ## My Stats
 <p align="center">
