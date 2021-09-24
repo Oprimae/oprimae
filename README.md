@@ -3,8 +3,8 @@
 * 📌 Based in France
 * 📦 Main Project: <a href="https://github.com/RedWolvesStudio">RedWolves Studio</a>
 * 📋 Current projects:
-    - FiveM RP Server > <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
-    - Mini-Games Minecraft Server > <a href="https://github.com/ServerNameMC">ServerNameMC</a>
+    - FiveM RP: <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
+    - Mini-Games Minecraft Server: <a href="https://github.com/ServerNameMC">ServerNameMC</a>
 
 ## My Stats
 <p align="center">
