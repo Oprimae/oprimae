@@ -3,8 +3,7 @@
 * 📌 Based in France
 * 📦 Main Project: <a href="https://github.com/PalmsStudio">Palms Studio</a>
 * 📋 Current projects:
-    - FiveM RP: <a href="https://github.com/FiveM-ParadiseLife">Paradise Life</a>
-    - Mini-Games Minecraft Server: <a href="https://github.com/ServerNameMC">ServerNameMC</a>
+    - Minecraft Server: <a href="https://github.com/Eclyxel">Eclyxel</a>
 
 ## My Stats
 <p align="center">
