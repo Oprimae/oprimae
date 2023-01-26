@@ -7,6 +7,6 @@
 
 ## My Stats
 <p align="center">
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ebichippusu&show_icons=true" />
-  <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebichippusu" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ebichippusu&show_icons=true" />
+  <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebichippusu" />
 </p>
