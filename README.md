@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile</h1>
 
 * 📌 Based in France
-* 📦 Main Project: <a href="https://github.com/PalmsStudio">Palms Studio</a>
-* 📋 Current projects:
-    - Minecraft Server: <a href="https://github.com/Eclyxel">Eclyxel</a>
+* 📦 Main Project: <a href="https://github.com/Eclyxel">Eclyxel</a>
 
 ## My Stats
 <p align="center">
