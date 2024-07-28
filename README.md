@@ -5,6 +5,9 @@
 
 ## My Stats
 <p align="center">
+  <img alt="GitHub Metrics" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oprimae&theme=dark" />
+</p>
+<p align="center">
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oprimae&show_icons=true" />
-  <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oprimae" />
+  <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oprimae&theme=dark" />
 </p>
