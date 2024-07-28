@@ -11,3 +11,7 @@
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oprimae&show_icons=true" />
   <img align="right" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oprimae&theme=dark" />
 </p>
+
+## Bookmarks
+Minecraft / Best Plugins:
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oprimae&repo=Skyblock&theme=dark" />
