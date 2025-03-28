@@ -11,5 +11,5 @@
   <img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oprimae&theme=dark" />
 </p>
 <h2>Bookmarks</h2>
-<p>Minecraft / Best Plugins:</p>
+<p>Minecraft Plugins:</p>
 <img alt="Minecraft Repo - Skyblock" src="https://github-readme-stats.vercel.app/api/pin/?username=Oprimae&repo=Skyblock&theme=dark" />
